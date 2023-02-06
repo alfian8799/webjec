@@ -1,0 +1,33 @@
+body {
+  min-height: 2000px;
+}
+.navbar {
+  background-color: bisque;
+}
+
+section {
+  padding-top: 80px;
+}
+.navbar-brand {
+  font-size: 30px;
+  font-weight: bold;
+}
+.jumbotron {
+  padding-top: 120px;
+
+  text-align: center;
+  background-color: #fcefdf;
+}
+.jumbotron h1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#project {
+  background-color: #fcefdf;
+}
+footer {
+  background-color: bisque;
+  text-align: center;
+  padding-bottom: 3px;
+}
